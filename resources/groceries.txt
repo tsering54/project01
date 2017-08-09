@@ -1,0 +1,9 @@
+bread 3
+juice 4
+chicken 6
+apples 2
+fish 15
+milk 7
+cookies 5
+onion 1
+meat 11

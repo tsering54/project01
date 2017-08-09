@@ -1,0 +1,107 @@
+/* -----------ShoppingBag.java output-------------
+Groceries wanted:
+[3, 4, 6, 2, 15, 7, 5, 1, 11]
+Enter how much cash you have:
+16
+Purchased grocery prices are:
+[3, 6, 7]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 577500 ns : ,  seconds.
+
+
+Groceries wanted:
+[3, 4, 6, 2, 15, 7, 5, 1, 11]
+Enter how much cash you have:
+13
+Purchased grocery prices are:
+[3, 4, 6]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 1 ms : 478376 ns : ,  seconds.
+
+
+
+Groceries wanted:
+[3, 4, 6, 2, 15, 7, 5, 1, 11]
+Enter how much cash you have:
+6
+Purchased grocery prices are:
+[6]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 0 ms : 218586 ns : ,  seconds.
+
+----------------------------------------*/
+
+
+/*----------------MyTunes.java Output----------
+Parsing JSON file...
+Completed parsing JSON file.
+Welcome! We have over 59600 in FoothillTunes store!
+
+Menu:
+0. Quit
+1. Output this menu
+2. Show all song titles
+3. Show all songs by genre 
+4. Buy songs by title
+5. Create a playlist
+
+
+selected option:3
+classic pop and rock: 23895
+classical: 1874
+dance and electronica: 4935
+folk: 13192
+hip-hop: 434
+jazz and blues: 4334
+metal: 2103
+pop: 1617
+punk: 3200
+soul and reggae: 4016
+
+Algorithm Elapsed Time: 0 hrs : 3 mins : 22 sec : 456 ms : 197709 ns : 
+
+
+selected option:4
+selected song title: Wall Of Sound
+Found 1 two songs:
+[Wall Of Sound, 0:5:48, American Hi-Fi, classic pop and rock]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 8 ms : 439190 ns : 
+
+
+selected option:4
+selected song title: Blue Jay
+Found 2 two songs:
+[Blue Jay, 0:3:43, Steve Lacy, jazz and blues, Blue Jay, 0:3:43, Steve Lacy, jazz and blues]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 5 ms : 279880 ns : 
+
+
+selected option:4
+selected song title: So Many Ways
+Found 5 two songs:
+[So Many Ways, 0:2:28, Brook Benton, classic pop and rock, So Many Ways, 0:2:30, Brook Benton, classic pop and rock, So Many Ways, 0:2:31, Brook Benton, classic pop and rock, So Many Ways, 0:2:32, Brook Benton, classic pop and rock, So Many Ways, 0:2:41, Gene Chandler, classic pop and rock]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 3 ms : 865477 ns : 
+
+
+selected option:4
+selected song title: Another Ugly Tune
+Found 1 two songs:
+[Another Ugly Tune, 0:3:44, Motorpsycho, jazz and blues]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 3 ms : 796481 ns : 
+
+
+selected option:5
+selected number of songs to buy: 5000
+selected playlist length (in seconds): 2400
+length of play list (in seconds): 2400
+songs in play list: [Wall Of Sound, 0:5:48, American Hi-Fi, classic pop and rock, Blue Jay, 0:3:43, Steve Lacy, jazz and blues, So Many Ways, 0:2:28, Brook Benton, classic pop and rock, So Many Ways, 0:2:30, Brook Benton, classic pop and rock, So Many Ways, 0:2:31, Brook Benton, classic pop and rock, So Many Ways, 0:2:32, Brook Benton, classic pop and rock, So Many Ways, 0:2:41, Gene Chandler, classic pop and rock, Another Ugly Tune, 0:3:44, Motorpsycho, jazz and blues, Mes Dames Sarat, 0:4:6, Blue Oyster Cult, classic pop and rock, Screams, 0:3:9, Blue Oyster Cult, classic pop and rock, Dance The Night Away, 0:2:38, Blue Oyster Cult, classic pop and rock, Debbie Denise, 0:4:10, Blue Oyster Cult, classic pop and rock]
+
+Algorithm Elapsed Time: 0 hrs : 0 mins : 0 sec : 8 ms : 195451 ns : 
+
+
+selected option:0
+
+--------------------------------*/

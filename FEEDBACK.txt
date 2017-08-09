@@ -1,0 +1,34 @@
+FEEDBACK:
+
+Well done!
+
++1 Extra for implementation of class FoothillTunesStore groupSongsByGenre() method
+          and class FoothillTunesStore printNumOfSongsInEachGenre() method
+   However, your implementation does not complete in a reasonable amount of time (< 1 min)
+   for our small data set.
+   The slow down may be due to the following line:
+         tunes.add(dataSet.getArrayOfSongs()[i]);
+   Why are you getting an array of songs during every iteration of the for loop?
+
+
+
+-0 Good detailed README. 
+   However, for future, place README.txt and RUN.txt at top level directory under project folder
+   as required by project description. That way I can easily identify where the rest of
+   of the files are in your submission. 
+   Next time minus one for this.
+
+
+-0 Javadocs missing. For future, make sure to include javadocs. The module Introductions has a 
+   short tutorial under “Example Program Submission” on how to create the Javadocs in Eclipse. 
+
+
+-0 Unless you can justify FoothillTunesStore, etc. should not be in MyTunes.java file,
+	define them  in their own .java file.
+	For more details see https://docs.oracle.com/javase/tutorial/java/package/managingfiles.html
+    Next time minus for every such class.
+
+   
+    	
+-Bita.
+
